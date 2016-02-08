@@ -1,1 +1,1 @@
-module.exports = require('lib/reporter.js');
+module.exports = require('./lib/reporter.js');

@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "nodemailer": "^2.1.0",
-    "request": "^2.69.0"
+    "request": "^2.69.0",
+    "sprintf": "^0.1.5"
   }
 }
